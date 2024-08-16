@@ -2,8 +2,6 @@ package DAO;
 import Model.Message;
 import Util.ConnectionUtil;
 
-import static org.mockito.Mockito.reset;
-
 import java.sql.*;
 import java.util.*;
 
